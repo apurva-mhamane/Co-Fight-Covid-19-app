@@ -16,4 +16,7 @@ User Interface:-
 ![image](https://github.com/apurva-mhamane/Co-Fight-Covid-19-app/assets/131534195/92813dd8-d03a-4326-b6b9-b2d4b7cd7723)
 ![image](https://github.com/apurva-mhamane/Co-Fight-Covid-19-app/assets/131534195/cff2fb8c-1099-460c-9d8e-17d4055ae780)
 
+Code cannot be uploaded 
+This repository is only to watch how UI of covid related app should be
+
 
